@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+*{margin: 0; padding: 0;}
+
+.전체{background-color:gold;
+      width: 1000px; margin: auto;}    /* margin: auto(= 0 auto) 는 중앙으로 */
